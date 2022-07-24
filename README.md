@@ -12,7 +12,7 @@ Node version v13.14.0 or higher.
 
 ## 🎮 Usage
 
-1. Git clone https://github.com/DenAU79/Scalapay.git
+1. Git clone https://github.com/DenAU79/ScalapayWDIO.git
 2. Run following command in a terminal: npm i
 3. To run all tests - npm run wdio
 4. To run one specific test - npx wdio run ./wdio.conf.js --spec integration\specs\api\payment.spec.js
